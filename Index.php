@@ -2,6 +2,7 @@
 
 echo "<strong>Hello World!</strong>";
 
+echo "<strong> Commit </strong>"
 
 ?>
 
